@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-26T14:02:56-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Moving</title><subtitle>A clean and minimalist theme for Jekyll.
+</subtitle><author><name>Your Name</name></author><entry><title type="html">Math Tests</title><link href="http://localhost:4000/misc/2020/04/15/math-test.html" rel="alternate" type="text/html" title="Math Tests" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>http://localhost:4000/misc/2020/04/15/math-test</id><content type="html" xml:base="http://localhost:4000/misc/2020/04/15/math-test.html"><![CDATA[\[R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}\]
+
+<p>The equation \((x_i \cdot x_j)^2\) is called kernel function and is often written as \(k(x_i, x_j)\).</p>
+
+\[\arg\max_\alpha \sum_j \alpha_j - \frac{1}{2} \sum_{j,k} \alpha_j, \alpha_k y_j y_k (x_j \cdot x_k)\]
+
+\[f(X) = \frac{1}{(2\pi)^{\frac{n}{2} |\Sigma|^{\frac{1}{2}}}} e^{ - \frac{1}{2} (X - \mu)^T \Sigma^{-1} (X - \mu)}\]
+
+\[\mu_i = \sum_{j=1}^N \frac{p_{ij} x}{n_i} \\
+\Sigma_i = \sum_{j=1}^N \frac{p_{ij} (x_j - \mu_i) (x_j - \mu_i)^T}{n_i}\\
+w_i  =  \frac{n_i}{N}\]
+
+\[S_i^{(t)} = \big \{ x_p : \big \| x_p - \mu^{(t)}_i \big \|^2 \le \big \| x_p - \mu^{(t)}_j \big \|^2 \ \forall j, 1 \le j \le k \big\}\]]]></content><author><name>Your Name</name></author><category term="misc" /><summary type="html"><![CDATA[\[R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu}\]]]></summary></entry><entry><title type="html">Language Tests</title><link href="http://localhost:4000/misc/2019/06/23/language-tests.html" rel="alternate" type="text/html" title="Language Tests" /><published>2019-06-23T00:00:00-05:00</published><updated>2019-06-23T00:00:00-05:00</updated><id>http://localhost:4000/misc/2019/06/23/language-tests</id><content type="html" xml:base="http://localhost:4000/misc/2019/06/23/language-tests.html"><![CDATA[<h3 id="1-日本語テスト">1. 日本語テスト</h3>
+
+<p>This is a Japanese test post to show you how japanese is displayed.</p>
+
+<p>私は昨日ついにその助力家というのの上よりするたなけれ。
+最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
+がたを知っないはずも同時に九月をいよいよたありた。</p>
+
+<p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。</p>
+
+<blockquote>
+  <p>それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。</p>
+</blockquote>
+
+<p>この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。</p>
+
+<p>From <a href="http://lipsum.sugutsukaeru.jp/index.cgi">すぐ使えるダミーテキスト - 日本語 Lorem ipsum.</a></p>
+
+<h3 id="2-繁体中文测试">2. 繁体中文测试</h3>
+
+<p>This is a chinese test post to show you how chinese is displayed.</p>
+
+<p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。</p>
+
+<p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
+
+<p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。</p>
+
+<p>國新故。</p>
+
+<blockquote>
+  <p>工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？</p>
+</blockquote>
+
+<p>From <a href="http://www.richyli.com/tool/loremipsum/">亂數假文產生器 - Chinese Lorem Ipsum.</a></p>
+
+<h3 id="3-简体中文测试">3. 简体中文测试</h3>
+
+<p>效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。</p>
+
+<blockquote>
+  <p>团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。</p>
+</blockquote>
+
+<p>因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。</p>
+
+<p>From <a href="http://www.cancms.com/content/dummytext">假文生成器， lorem ipsum Chinese</a></p>]]></content><author><name>Your Name</name></author><category term="misc" /><summary type="html"><![CDATA[1. 日本語テスト]]></summary></entry><entry><title type="html">Code Highlight Tests</title><link href="http://localhost:4000/misc/2016/05/01/code-highlight-tests.html" rel="alternate" type="text/html" title="Code Highlight Tests" /><published>2016-05-01T00:00:00-05:00</published><updated>2016-05-01T00:00:00-05:00</updated><id>http://localhost:4000/misc/2016/05/01/code-highlight-tests</id><content type="html" xml:base="http://localhost:4000/misc/2016/05/01/code-highlight-tests.html"><![CDATA[<h2 id="test-for-c">Test for C</h2>
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#define UNICODE
+#include</span> <span class="cpf">&lt;windows.h&gt;</span><span class="cp">
+</span> 
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">**</span><span class="n">argv</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kt">int</span> <span class="n">speed</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">speed1</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">speed2</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="c1">// 1-20</span>
+  <span class="n">printf</span><span class="p">(</span><span class="s">"Set Mouse Speed by Maverick</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+ 
+  <span class="n">SystemParametersInfo</span><span class="p">(</span><span class="n">SPI_GETMOUSESPEED</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">speed</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+  <span class="n">printf</span><span class="p">(</span><span class="s">"Current speed: %2d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">speed</span><span class="p">);</span>
+ 
+  <span class="k">if</span> <span class="p">(</span><span class="n">argc</span> <span class="o">==</span> <span class="mi">1</span><span class="p">)</span> <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">argc</span> <span class="o">&gt;=</span> <span class="mi">2</span><span class="p">)</span> <span class="n">sscanf</span><span class="p">(</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="s">"%d"</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">speed1</span><span class="p">);</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">argc</span> <span class="o">&gt;=</span> <span class="mi">3</span><span class="p">)</span> <span class="n">sscanf</span><span class="p">(</span><span class="n">argv</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span> <span class="s">"%d"</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">speed2</span><span class="p">);</span>
+ 
+  <span class="k">if</span> <span class="p">(</span><span class="n">argc</span> <span class="o">==</span> <span class="mi">2</span><span class="p">)</span> <span class="c1">// set speed to first value</span>
+    <span class="n">speed</span> <span class="o">=</span> <span class="n">speed1</span><span class="p">;</span>
+  <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">speed</span> <span class="o">==</span> <span class="n">speed1</span> <span class="o">||</span> <span class="n">speed</span> <span class="o">==</span> <span class="n">speed2</span><span class="p">)</span> <span class="c1">// alternate</span>
+    <span class="n">speed</span> <span class="o">=</span> <span class="n">speed1</span> <span class="o">+</span> <span class="n">speed2</span> <span class="o">-</span> <span class="n">speed</span><span class="p">;</span>
+  <span class="k">else</span>
+    <span class="n">speed</span> <span class="o">=</span> <span class="n">speed1</span><span class="p">;</span>  <span class="c1">// start with first value</span>
+ 
+  <span class="n">SystemParametersInfo</span><span class="p">(</span><span class="n">SPI_SETMOUSESPEED</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span>  <span class="n">speed</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+  <span class="n">SystemParametersInfo</span><span class="p">(</span><span class="n">SPI_GETMOUSESPEED</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">speed</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+  <span class="n">printf</span><span class="p">(</span><span class="s">"New speed:     %2d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">speed</span><span class="p">);</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h2 id="test-for-java">Test for Java</h2>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">java.util.Map</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">java.util.TreeSet</span><span class="o">;</span>
+ 
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">GetEnv</span> <span class="o">{</span>
+  <span class="cm">/**
+   * let's test generics
+   * @param args the command line arguments
+   */</span>
+  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="nc">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+    <span class="c1">// get a map of environment variables</span>
+    <span class="nc">Map</span><span class="o">&lt;</span><span class="nc">String</span><span class="o">,</span> <span class="nc">String</span><span class="o">&gt;</span> <span class="n">env</span> <span class="o">=</span> <span class="nc">System</span><span class="o">.</span><span class="na">getenv</span><span class="o">();</span>
+    <span class="c1">// build a sorted set out of the keys and iterate</span>
+    <span class="k">for</span><span class="o">(</span><span class="nc">String</span> <span class="nl">k:</span> <span class="k">new</span> <span class="nc">TreeSet</span><span class="o">&lt;</span><span class="nc">String</span><span class="o">&gt;(</span><span class="n">env</span><span class="o">.</span><span class="na">keySet</span><span class="o">()))</span> <span class="o">{</span>
+      <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">printf</span><span class="o">(</span><span class="s">"%s = %s\n"</span><span class="o">,</span> <span class="n">k</span><span class="o">,</span> <span class="n">env</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="n">k</span><span class="o">));</span>
+    <span class="o">}</span>
+  <span class="o">}</span>    
+<span class="o">}</span>
+</code></pre></div></div>
+
+<h2 id="test-for-perl">Test for Perl</h2>
+
+<div class="language-perl highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#!perl -w</span>
+ 
+<span class="c1"># Time-stamp: &lt;2002/04/06, 13:12:13 (EST), maverick, csvformat.pl&gt;</span>
+<span class="c1"># Two pass CSV file to table formatter</span>
+ 
+<span class="nv">$delim</span> <span class="o">=</span> <span class="nv">$#ARGV</span> <span class="o">&gt;=</span> <span class="mi">1</span> <span class="p">?</span> <span class="nv">$ARGV</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="p">:</span> <span class="p">'</span><span class="s1">,</span><span class="p">';</span>
+<span class="k">print</span> <span class="bp">STDERR</span> <span class="p">"</span><span class="s2">Split pattern: </span><span class="si">$delim</span><span class="se">\n</span><span class="p">";</span>
+ 
+<span class="c1"># first pass</span>
+<span class="nb">open</span> <span class="nv">F</span><span class="p">,</span> <span class="p">"</span><span class="s2">&lt;</span><span class="si">$ARGV</span><span class="s2">[0]</span><span class="p">"</span> <span class="ow">or</span> <span class="nb">die</span><span class="p">;</span>
+<span class="k">while</span><span class="p">(</span><span class="o">&lt;</span><span class="nv">F</span><span class="o">&gt;</span><span class="p">)</span>
+<span class="p">{</span>
+  <span class="nb">chomp</span><span class="p">;</span>
+  <span class="nv">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="nb">map</span> <span class="p">{</span> <span class="nv">$max</span><span class="p">[</span><span class="vg">$_</span><span class="o">-&gt;</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="vg">$_</span><span class="o">-&gt;</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="k">if</span> <span class="vg">$_</span><span class="o">-&gt;</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">&gt;</span> <span class="p">(</span><span class="nv">$max</span><span class="p">[</span><span class="vg">$_</span><span class="o">-&gt;</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="p">}</span>
+    <span class="p">(</span><span class="nb">map</span> <span class="p">{[</span><span class="nb">length</span> <span class="vg">$_</span><span class="p">,</span> <span class="nv">$i</span><span class="o">++</span><span class="p">]}</span> <span class="nb">split</span><span class="p">(</span><span class="nv">$delim</span><span class="p">));</span>
+<span class="p">}</span>
+<span class="nb">close</span> <span class="nv">F</span><span class="p">;</span>
+ 
+<span class="k">print</span> <span class="bp">STDERR</span> <span class="p">'</span><span class="s1">Field width:   </span><span class="p">',</span> <span class="nb">join</span><span class="p">('</span><span class="s1">, </span><span class="p">',</span> <span class="nv">@max</span><span class="p">),</span> <span class="p">"</span><span class="se">\n</span><span class="p">";</span>
+<span class="k">print</span> <span class="bp">STDERR</span> <span class="nb">join</span><span class="p">('</span><span class="s1"> </span><span class="p">',</span> <span class="nb">map</span> <span class="p">{'</span><span class="s1">-</span><span class="p">'</span> <span class="nv">x</span> <span class="vg">$_</span><span class="p">}</span> <span class="nv">@max</span><span class="p">);</span>
+ 
+<span class="c1"># second pass</span>
+<span class="nb">open</span> <span class="nv">F</span><span class="p">,</span> <span class="p">"</span><span class="s2">&lt;</span><span class="si">$ARGV</span><span class="s2">[0]</span><span class="p">"</span> <span class="ow">or</span> <span class="nb">die</span><span class="p">;</span>
+<span class="k">while</span><span class="p">(</span><span class="o">&lt;</span><span class="nv">F</span><span class="o">&gt;</span><span class="p">)</span>
+  <span class="p">{</span>
+  <span class="nb">chomp</span><span class="p">;</span>
+  <span class="nv">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="nb">map</span> <span class="p">{</span> <span class="nb">printf</span><span class="p">("</span><span class="s2">%-</span><span class="si">$max</span><span class="s2">[</span><span class="si">$_</span><span class="s2">-&gt;[1]]s </span><span class="p">",</span> <span class="vg">$_</span><span class="o">-&gt;</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span> <span class="p">}</span>
+    <span class="p">(</span><span class="nb">map</span> <span class="p">{[</span><span class="vg">$_</span><span class="p">,</span> <span class="nv">$i</span><span class="o">++</span><span class="p">]}</span> <span class="nb">split</span><span class="p">(</span><span class="nv">$delim</span><span class="p">));</span>
+  <span class="k">print</span> <span class="p">"</span><span class="se">\n</span><span class="p">";</span>
+<span class="p">}</span>
+<span class="nb">close</span> <span class="nv">F</span><span class="p">;</span>
+</code></pre></div></div>
+
+<h2 id="test-for-python">Test for Python</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># test python (sample from offlineimap)
+</span> 
+<span class="k">class</span> <span class="nc">ExitNotifyThread</span><span class="p">(</span><span class="n">Thread</span><span class="p">):</span>
+    <span class="s">"""This class is designed to alert a "monitor" to the fact that a thread has
+    exited and to provide for the ability for it to find out why."""</span>
+    <span class="k">def</span> <span class="nf">run</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">global</span> <span class="n">exitthreads</span><span class="p">,</span> <span class="n">profiledir</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">threadid</span> <span class="o">=</span> <span class="n">thread</span><span class="p">.</span><span class="n">get_ident</span><span class="p">()</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="k">if</span> <span class="ow">not</span> <span class="n">profiledir</span><span class="p">:</span>          <span class="c1"># normal case
+</span>                <span class="n">Thread</span><span class="p">.</span><span class="n">run</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="k">try</span><span class="p">:</span>
+                    <span class="kn">import</span> <span class="nn">cProfile</span> <span class="k">as</span> <span class="n">profile</span>
+                <span class="k">except</span> <span class="nb">ImportError</span><span class="p">:</span>
+                    <span class="kn">import</span> <span class="nn">profile</span>
+                <span class="n">prof</span> <span class="o">=</span> <span class="n">profile</span><span class="p">.</span><span class="n">Profile</span><span class="p">()</span>
+                <span class="k">try</span><span class="p">:</span>
+                    <span class="n">prof</span> <span class="o">=</span> <span class="n">prof</span><span class="p">.</span><span class="n">runctx</span><span class="p">(</span><span class="s">"Thread.run(self)"</span><span class="p">,</span> <span class="nb">globals</span><span class="p">(),</span> <span class="nb">locals</span><span class="p">())</span>
+                <span class="k">except</span> <span class="nb">SystemExit</span><span class="p">:</span>
+                    <span class="k">pass</span>
+                <span class="n">prof</span><span class="p">.</span><span class="n">dump_stats</span><span class="p">(</span> \
+                            <span class="n">profiledir</span> <span class="o">+</span> <span class="s">"/"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="bp">self</span><span class="p">.</span><span class="n">threadid</span><span class="p">)</span> <span class="o">+</span> <span class="s">"_"</span> <span class="o">+</span> \
+                            <span class="bp">self</span><span class="p">.</span><span class="n">getName</span><span class="p">()</span> <span class="o">+</span> <span class="s">".prof"</span><span class="p">)</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="bp">self</span><span class="p">.</span><span class="n">setExitCause</span><span class="p">(</span><span class="s">'EXCEPTION'</span><span class="p">)</span>
+            <span class="k">if</span> <span class="n">sys</span><span class="p">:</span>
+                <span class="bp">self</span><span class="p">.</span><span class="n">setExitException</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">exc_info</span><span class="p">()[</span><span class="mi">1</span><span class="p">])</span>
+                <span class="n">tb</span> <span class="o">=</span> <span class="n">traceback</span><span class="p">.</span><span class="n">format_exc</span><span class="p">()</span>
+                <span class="bp">self</span><span class="p">.</span><span class="n">setExitStackTrace</span><span class="p">(</span><span class="n">tb</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="bp">self</span><span class="p">.</span><span class="n">setExitCause</span><span class="p">(</span><span class="s">'NORMAL'</span><span class="p">)</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="nb">hasattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="s">'exitmessage'</span><span class="p">):</span>
+            <span class="bp">self</span><span class="p">.</span><span class="n">setExitMessage</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
+ 
+        <span class="k">if</span> <span class="n">exitthreads</span><span class="p">:</span>
+            <span class="n">exitthreads</span><span class="p">.</span><span class="n">put</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="bp">True</span><span class="p">)</span>
+ 
+    <span class="k">def</span> <span class="nf">setExitCause</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">cause</span><span class="p">):</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">exitcause</span> <span class="o">=</span> <span class="n">cause</span>
+    <span class="k">def</span> <span class="nf">getExitCause</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="s">"""Returns the cause of the exit, one of:
+        'EXCEPTION' -- the thread aborted because of an exception
+        'NORMAL' -- normal termination."""</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="p">.</span><span class="n">exitcause</span>
+    <span class="k">def</span> <span class="nf">setExitException</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">exc</span><span class="p">):</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">exitexception</span> <span class="o">=</span> <span class="n">exc</span>
+    <span class="k">def</span> <span class="nf">getExitException</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="s">"""If getExitCause() is 'EXCEPTION', holds the value from
+        sys.exc_info()[1] for this exception."""</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="p">.</span><span class="n">exitexception</span>
+    <span class="k">def</span> <span class="nf">setExitStackTrace</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">st</span><span class="p">):</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">exitstacktrace</span> <span class="o">=</span> <span class="n">st</span>
+    <span class="k">def</span> <span class="nf">getExitStackTrace</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="s">"""If getExitCause() is 'EXCEPTION', returns a string representing
+        the stack trace for this exception."""</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="p">.</span><span class="n">exitstacktrace</span>
+    <span class="k">def</span> <span class="nf">setExitMessage</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">msg</span><span class="p">):</span>
+        <span class="s">"""Sets the exit message to be fetched by a subsequent call to
+        getExitMessage.  This message may be any object or type except
+        None."""</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">exitmessage</span> <span class="o">=</span> <span class="n">msg</span>
+    <span class="k">def</span> <span class="nf">getExitMessage</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="s">"""For any exit cause, returns the message previously set by
+        a call to setExitMessage(), or None if there was no such message
+        set."""</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="p">.</span><span class="n">exitmessage</span>
+</code></pre></div></div>
+
+<h2 id="test-for-bash">Test for Bash</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<span class="nb">cd</span> <span class="nv">$ROOT_DIR</span>
+<span class="nv">DOT_FILES</span><span class="o">=</span><span class="s2">"lastpass weechat ssh Xauthority"</span>
+<span class="k">for </span>dotfile <span class="k">in</span> <span class="nv">$DOT_FILES</span><span class="p">;</span> <span class="k">do </span>conform_link <span class="s2">"</span><span class="nv">$DATA_DIR</span><span class="s2">/</span><span class="nv">$dotfile</span><span class="s2">"</span> <span class="s2">".</span><span class="nv">$dotfile</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span>
+ 
+<span class="c"># TODO: refactor with suffix variables (or common cron values)</span>
+ 
+<span class="k">case</span> <span class="s2">"</span><span class="nv">$PLATFORM</span><span class="s2">"</span> <span class="k">in
+    </span>linux<span class="p">)</span>
+        <span class="c">#conform_link "$CONF_DIR/shell/zshenv" ".zshenv"</span>
+        crontab <span class="nt">-l</span> <span class="o">&gt;</span> <span class="nv">$ROOT_DIR</span>/tmp/crontab-conflict-arch
+        <span class="nb">cd</span> <span class="nv">$ROOT_DIR</span>/<span class="nv">$CONF_DIR</span>/cron
+        <span class="k">if</span> <span class="o">[[</span> <span class="s2">"</span><span class="si">$(</span>diff ~/tmp/crontab-conflict-arch crontab-current-arch<span class="si">)</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">""</span>
+            <span class="o">]]</span><span class="p">;</span>
+            <span class="k">then</span> <span class="c"># no difference with current backup</span>
+                logger <span class="s2">"</span><span class="nv">$LOG_PREFIX</span><span class="s2">: crontab live settings match stored "</span><span class="se">\</span>
+                    <span class="s2">"settings; no restore required"</span>
+                <span class="nb">rm</span> ~/tmp/crontab-conflict-arch
+            <span class="k">else</span> <span class="c"># current crontab settings in file do not match live settings</span>
+                crontab <span class="nv">$ROOT_DIR</span>/<span class="nv">$CONF_DIR</span>/cron/crontab-current-arch
+                logger <span class="s2">"</span><span class="nv">$LOG_PREFIX</span><span class="s2">: crontab stored settings conflict with "</span><span class="se">\</span>
+                    <span class="s2">"live settings; stored settings restored. "</span><span class="se">\</span>
+                    <span class="s2">"Previous settings recorded in ~/tmp/crontab-conflict-arch."</span>
+        <span class="k">fi</span>
+    <span class="p">;;</span>
+</code></pre></div></div>
+
+<h2 id="test-for-haskell">Test for Haskell</h2>
+
+<div class="language-haskell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{-# LANGUAGE OverloadedStrings #-}</span>
+<span class="kr">module</span> <span class="nn">Main</span> <span class="kr">where</span>
+ 
+<span class="c1">--import Prelude hiding (id)</span>
+<span class="c1">--import Control.Category (id)</span>
+<span class="kr">import</span> <span class="nn">Control.Arrow</span> <span class="p">((</span><span class="o">&gt;&gt;&gt;</span><span class="p">),</span> <span class="p">(</span><span class="o">***</span><span class="p">),</span> <span class="nf">arr</span><span class="p">)</span>
+<span class="kr">import</span> <span class="nn">Control.Monad</span> <span class="p">(</span><span class="nf">forM_</span><span class="p">)</span>
+<span class="c1">-- import Data.Monoid (mempty, mconcat)</span>
+ 
+<span class="c1">-- import System.FilePath</span>
+ 
+<span class="kr">import</span> <span class="nn">Hakyll</span>
+ 
+ 
+<span class="n">main</span> <span class="o">::</span> <span class="kt">IO</span> <span class="nb">()</span>
+<span class="n">main</span> <span class="o">=</span> <span class="n">hakyll</span> <span class="o">$</span> <span class="kr">do</span>
+ 
+    <span class="n">route</span>   <span class="s">"css/*"</span> <span class="o">$</span> <span class="n">setExtension</span> <span class="s">"css"</span>
+    <span class="n">compile</span> <span class="s">"css/*"</span> <span class="o">$</span> <span class="n">byExtension</span> <span class="p">(</span><span class="n">error</span> <span class="s">"Not a (S)CSS file"</span><span class="p">)</span>
+        <span class="p">[</span> <span class="p">(</span><span class="s">".css"</span><span class="p">,</span>  <span class="n">compressCssCompiler</span><span class="p">)</span>
+        <span class="p">,</span> <span class="p">(</span><span class="s">".scss"</span><span class="p">,</span> <span class="n">sass</span><span class="p">)</span>
+        <span class="p">]</span>
+ 
+    <span class="n">route</span>   <span class="s">"js/**"</span> <span class="n">idRoute</span>
+    <span class="n">compile</span> <span class="s">"js/**"</span> <span class="n">copyFileCompiler</span>
+ 
+    <span class="n">route</span>   <span class="s">"img/*"</span> <span class="n">idRoute</span>
+    <span class="n">compile</span> <span class="s">"img/*"</span> <span class="n">copyFileCompiler</span>
+ 
+    <span class="n">compile</span> <span class="s">"templates/*"</span> <span class="n">templateCompiler</span>
+ 
+    <span class="n">forM_</span> <span class="p">[</span><span class="s">"test.md"</span><span class="p">,</span> <span class="s">"index.md"</span><span class="p">]</span> <span class="o">$</span> <span class="nf">\</span><span class="n">page</span> <span class="o">-&gt;</span> <span class="kr">do</span>
+        <span class="n">route</span>   <span class="n">page</span> <span class="o">$</span> <span class="n">setExtension</span> <span class="s">"html"</span>
+        <span class="n">compile</span> <span class="n">page</span> <span class="o">$</span> <span class="n">pageCompiler</span>
+            <span class="o">&gt;&gt;&gt;</span> <span class="n">applyTemplateCompiler</span> <span class="s">"templates/default.html"</span>
+            <span class="o">&gt;&gt;&gt;</span> <span class="n">relativizeUrlsCompiler</span>
+ 
+<span class="n">sass</span> <span class="o">::</span> <span class="kt">Compiler</span> <span class="kt">Resource</span> <span class="kt">String</span>
+<span class="n">sass</span> <span class="o">=</span> <span class="n">getResourceString</span> <span class="o">&gt;&gt;&gt;</span> <span class="n">unixFilter</span> <span class="s">"sass"</span> <span class="p">[</span><span class="s">"-s"</span><span class="p">,</span> <span class="s">"--scss"</span><span class="p">]</span>
+                         <span class="o">&gt;&gt;&gt;</span> <span class="n">arr</span> <span class="n">compressCss</span>
+</code></pre></div></div>
+
+<h2 id="test-for-php">Test for PHP</h2>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="cp">&lt;?php</span>
+<span class="k">require_once</span><span class="p">(</span><span class="nv">$GLOBALS</span><span class="p">[</span><span class="s1">'g_campsiteDir'</span><span class="p">]</span><span class="mf">.</span> <span class="s2">"/</span><span class="nv">$ADMIN_DIR</span><span class="s2">/country/common.php"</span><span class="p">);</span>
+<span class="k">require_once</span><span class="p">(</span><span class="nv">$GLOBALS</span><span class="p">[</span><span class="s1">'g_campsiteDir'</span><span class="p">]</span><span class="mf">.</span> <span class="s2">"/classes/SimplePager.php"</span><span class="p">);</span>
+<span class="nf">camp_load_translation_strings</span><span class="p">(</span><span class="s2">"api"</span><span class="p">);</span>
+ 
+<span class="nv">$f_country_language_selected</span> <span class="o">=</span> <span class="nf">camp_session_get</span><span class="p">(</span><span class="s1">'f_language_selected'</span><span class="p">,</span> <span class="s1">''</span><span class="p">);</span>
+<span class="nv">$f_country_offset</span> <span class="o">=</span> <span class="nf">camp_session_get</span><span class="p">(</span><span class="s1">'f_country_offset'</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span>
+<span class="k">if</span> <span class="p">(</span><span class="k">empty</span><span class="p">(</span><span class="nv">$f_country_language_selected</span><span class="p">))</span> <span class="p">{</span>
+    <span class="nv">$f_country_language_selected</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="nv">$ItemsPerPage</span> <span class="o">=</span> <span class="mi">20</span><span class="p">;</span>
+<span class="nv">$languages</span> <span class="o">=</span> <span class="nc">Language</span><span class="o">::</span><span class="nf">GetLanguages</span><span class="p">(</span><span class="kc">null</span><span class="p">,</span> <span class="kc">null</span><span class="p">,</span> <span class="kc">null</span><span class="p">,</span> <span class="k">array</span><span class="p">(),</span> <span class="k">array</span><span class="p">(),</span> <span class="kc">true</span><span class="p">);</span>
+<span class="nv">$numCountries</span> <span class="o">=</span> <span class="nc">Country</span><span class="o">::</span><span class="nf">GetNumCountries</span><span class="p">(</span><span class="nv">$f_country_language_selected</span><span class="p">);</span>
+ 
+<span class="nv">$pager</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">SimplePager</span><span class="p">(</span><span class="nv">$numCountries</span><span class="p">,</span> <span class="nv">$ItemsPerPage</span><span class="p">,</span> <span class="s2">"index.php?"</span><span class="p">);</span>
+ 
+<span class="nv">$crumbs</span> <span class="o">=</span> <span class="k">array</span><span class="p">();</span>
+<span class="nv">$crumbs</span><span class="p">[]</span> <span class="o">=</span> <span class="k">array</span><span class="p">(</span><span class="nf">getGS</span><span class="p">(</span><span class="s2">"Configure"</span><span class="p">),</span> <span class="s2">""</span><span class="p">);</span>
+<span class="nv">$crumbs</span><span class="p">[]</span> <span class="o">=</span> <span class="k">array</span><span class="p">(</span><span class="nf">getGS</span><span class="p">(</span><span class="s2">"Countries"</span><span class="p">),</span> <span class="s2">""</span><span class="p">);</span>
+<span class="k">echo</span> <span class="nf">camp_html_breadcrumbs</span><span class="p">(</span><span class="nv">$crumbs</span><span class="p">);</span>
+ 
+<span class="cp">?&gt;</span>
+ 
+<span class="cp">&lt;?php</span>  <span class="k">if</span> <span class="p">(</span><span class="nv">$g_user</span><span class="o">-&gt;</span><span class="nf">hasPermission</span><span class="p">(</span><span class="s2">"ManageCountries"</span><span class="p">))</span> <span class="p">{</span> <span class="cp">?&gt;</span>
+<span class="nt">&lt;table</span> <span class="na">BORDER=</span><span class="s">"0"</span> <span class="na">CELLSPACING=</span><span class="s">"0"</span> <span class="na">CELLPADDING=</span><span class="s">"1"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;tr&gt;</span>
+        <span class="nt">&lt;td&gt;&lt;a</span> <span class="na">href=</span><span class="s">"add.php"</span><span class="nt">&gt;</span><span class="cp">&lt;?php</span> <span class="nf">putGS</span><span class="p">(</span><span class="s2">"Add new"</span><span class="p">);</span> <span class="cp">?&gt;</span><span class="nt">&lt;/a&gt;&lt;/td&gt;</span>
+    <span class="nt">&lt;/tr&gt;</span>
+<span class="nt">&lt;/table&gt;</span>
+</code></pre></div></div>
+
+<h2 id="test-for-javascript">Test for Javascript</h2>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">import</span> <span class="nx">isTypedArray</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">lodash/isTypedArray</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">reverse</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">lodash/reverse</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">sortBy</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">lodash/sortBy</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">take</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">lodash/take</span><span class="dl">'</span><span class="p">;</span>
+<span class="k">import</span> <span class="p">{</span> <span class="nx">food101Classes</span> <span class="p">}</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">./food101</span><span class="dl">'</span><span class="p">;</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">food101topK</span><span class="p">(</span><span class="nx">classProbabilities</span><span class="p">,</span> <span class="nx">k</span> <span class="o">=</span> <span class="mi">5</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">probs</span> <span class="o">=</span> <span class="nx">isTypedArray</span><span class="p">(</span><span class="nx">classProbabilities</span><span class="p">)</span>
+    <span class="p">?</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">slice</span><span class="p">.</span><span class="nx">call</span><span class="p">(</span><span class="nx">classProbabilities</span><span class="p">)</span>
+    <span class="p">:</span> <span class="nx">classProbabilities</span><span class="p">;</span>
+
+  <span class="kd">const</span> <span class="nx">sorted</span> <span class="o">=</span> <span class="nx">reverse</span><span class="p">(</span>
+    <span class="nx">sortBy</span><span class="p">(</span>
+      <span class="nx">probs</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">prob</span><span class="p">,</span> <span class="nx">index</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">[</span> <span class="nx">prob</span><span class="p">,</span> <span class="nx">index</span> <span class="p">]),</span>
+      <span class="nx">probIndex</span> <span class="o">=&gt;</span> <span class="nx">probIndex</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="p">)</span>
+  <span class="p">);</span>
+
+  <span class="kd">const</span> <span class="nx">topK</span> <span class="o">=</span> <span class="nx">take</span><span class="p">(</span><span class="nx">sorted</span><span class="p">,</span> <span class="nx">k</span><span class="p">).</span><span class="nx">map</span><span class="p">(</span><span class="nx">probIndex</span> <span class="o">=&gt;</span> <span class="p">{</span>
+    <span class="kd">const</span> <span class="nx">iClass</span> <span class="o">=</span> <span class="nx">food101Classes</span><span class="p">[</span><span class="nx">probIndex</span><span class="p">[</span><span class="mi">1</span><span class="p">]];</span>
+    <span class="k">return</span> <span class="p">{</span>
+      <span class="na">id</span><span class="p">:</span> <span class="nx">probIndex</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span>
+      <span class="na">name</span><span class="p">:</span> <span class="nx">iClass</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/_/</span><span class="p">,</span> <span class="dl">'</span><span class="s1"> </span><span class="dl">'</span><span class="p">),</span>
+      <span class="na">probability</span><span class="p">:</span> <span class="nx">probIndex</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="p">};</span>
+  <span class="p">});</span>
+  <span class="k">return</span> <span class="nx">topK</span><span class="p">;</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<h2 id="test-for-html">Test for HTML</h2>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="cp">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"&gt;</span>
+<span class="nt">&lt;html&gt;&lt;head&gt;</span>
+<span class="nt">&lt;title&gt;</span>A Tiny Page<span class="nt">&lt;/title&gt;</span>
+<span class="nt">&lt;style </span><span class="na">type=</span><span class="s">"text/css"</span><span class="nt">&gt;</span>
+<span class="o">&lt;!</span><span class="nt">--</span>
+      <span class="nt">p</span> <span class="p">{</span> <span class="nl">font-size</span><span class="p">:</span><span class="m">15pt</span><span class="p">;</span> <span class="nl">color</span><span class="p">:</span><span class="m">#000</span> <span class="p">}</span>
+    <span class="nt">--</span><span class="o">&gt;</span>
+<span class="nt">&lt;/style&gt;&lt;/head&gt;</span><span class="c">&lt;!-- real comment --&gt;</span>
+<span class="nt">&lt;body</span> <span class="na">bgcolor=</span><span class="s">"#FFFFFF"</span> <span class="na">text=</span><span class="s">"#000000"</span> <span class="na">link=</span><span class="s">"#0000CC"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;script </span><span class="na">language=</span><span class="s">"javascript"</span> <span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
+      <span class="kd">function</span> <span class="nx">changeHeight</span><span class="p">(</span><span class="nx">h</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nx">tds</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="dl">"</span><span class="s2">td</span><span class="dl">"</span><span class="p">);</span>
+        <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">tds</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+          <span class="nx">tds</span><span class="p">[</span><span class="nx">i</span><span class="p">].</span><span class="nx">setAttribute</span><span class="p">(</span><span class="dl">"</span><span class="s2">height</span><span class="dl">"</span><span class="p">,</span> <span class="nx">h</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">px</span><span class="dl">"</span><span class="p">);</span>
+      <span class="p">}}</span>
+<span class="nt">&lt;/script&gt;</span>
+<span class="nt">&lt;h1&gt;</span>abc<span class="nt">&lt;/h1&gt;</span>
+<span class="nt">&lt;h2&gt;</span>def<span class="nt">&lt;/h2&gt;</span>
+<span class="nt">&lt;p&gt;</span>Testing page<span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;/body&gt;&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<h2 id="test-for-css">Test for CSS</h2>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">/*
+Monokai style - ported by Luigi Maselli - http://grigio.org
+*/</span>
+
+<span class="nc">.hljs</span> <span class="p">{</span>
+  <span class="nl">display</span><span class="p">:</span> <span class="nb">block</span><span class="p">;</span>
+  <span class="nl">overflow-x</span><span class="p">:</span> <span class="nb">auto</span><span class="p">;</span>
+  <span class="nl">padding</span><span class="p">:</span> <span class="m">0.5em</span><span class="p">;</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="m">#272822</span><span class="p">;</span> <span class="nl">color</span><span class="p">:</span> <span class="m">#ddd</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nc">.hljs-tag</span><span class="o">,</span>
+<span class="nc">.hljs-keyword</span><span class="o">,</span>
+<span class="nc">.hljs-selector-tag</span><span class="o">,</span>
+<span class="nc">.hljs-literal</span><span class="o">,</span>
+<span class="nc">.hljs-strong</span><span class="o">,</span>
+<span class="nc">.hljs-name</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#f92672</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nc">.hljs-code</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#66d9ef</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nc">.hljs-class</span> <span class="nc">.hljs-title</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">white</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>]]></content><author><name>Your Name</name></author><category term="misc" /><summary type="html"><![CDATA[Test for C #define UNICODE #include &lt;windows.h&gt; int main(int argc, char **argv) { int speed = 0, speed1 = 0, speed2 = 0; // 1-20 printf("Set Mouse Speed by Maverick\n"); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;speed, 0); printf("Current speed: %2d\n", speed); if (argc == 1) return 0; if (argc &gt;= 2) sscanf(argv[1], "%d", &amp;speed1); if (argc &gt;= 3) sscanf(argv[2], "%d", &amp;speed2); if (argc == 2) // set speed to first value speed = speed1; else if (speed == speed1 || speed == speed2) // alternate speed = speed1 + speed2 - speed; else speed = speed1; // start with first value SystemParametersInfo(SPI_SETMOUSESPEED, 0, speed, 0); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;speed, 0); printf("New speed: %2d\n", speed); return 0; }]]></summary></entry><entry><title type="html">Long Article</title><link href="http://localhost:4000/misc/2016/04/23/super-long-article.html" rel="alternate" type="text/html" title="Long Article" /><published>2016-04-23T00:00:00-05:00</published><updated>2016-04-23T00:00:00-05:00</updated><id>http://localhost:4000/misc/2016/04/23/super-long-article</id><content type="html" xml:base="http://localhost:4000/misc/2016/04/23/super-long-article.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>]]></content><author><name>Your Name</name></author><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></summary></entry><entry><title type="html">Short Article</title><link href="http://localhost:4000/misc/2016/03/19/super-short-article.html" rel="alternate" type="text/html" title="Short Article" /><published>2016-03-19T00:00:00-05:00</published><updated>2016-03-19T00:00:00-05:00</updated><id>http://localhost:4000/misc/2016/03/19/super-short-article</id><content type="html" xml:base="http://localhost:4000/misc/2016/03/19/super-short-article.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name>Your Name</name></author><category term="misc" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry><entry><title type="html">Post Content Styles</title><link href="http://localhost:4000/junk/2016/02/06/post-content-styles.html" rel="alternate" type="text/html" title="Post Content Styles" /><published>2016-02-06T00:00:00-06:00</published><updated>2016-02-06T00:00:00-06:00</updated><id>http://localhost:4000/junk/2016/02/06/post-content-styles</id><content type="html" xml:base="http://localhost:4000/junk/2016/02/06/post-content-styles.html"><![CDATA[<h1 id="great-heading-h1">Great heading (h1)</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+
+<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+
+<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+
+<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<blockquote>
+  <p>This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+
+<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+
+<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h5 id="but-its-probably-overkill-h5">But it’s probably overkill (h5)</h5>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h6 id="oh-hai-an-unordered-list-h6">Oh hai, an unordered list!! (h6)</h6>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ul>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ul>
+
+<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ol>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ol>
+
+<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="tables">Tables</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="images">Images</h3>
+
+<p><img src="https://i.loli.net/2020/04/16/TiPKsjzZdcp2tOq.jpg" alt="" /></p>
+
+<h3 id="styles">Styles</h3>
+
+<p><em>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</em></p>
+
+<hr />
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing <strong>sollicitudin, adipiscing eget est.</strong></p>]]></content><author><name>Yizheng Huang</name></author><category term="junk" /><summary type="html"><![CDATA[Great heading (h1) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2016/01/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-01-06T00:00:00-06:00</published><updated>2016-01-06T00:00:00-06:00</updated><id>http://localhost:4000/2016/01/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2016/01/06/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Your Name</name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
